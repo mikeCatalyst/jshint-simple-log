@@ -13,6 +13,10 @@
     "Log",
     "File"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mikeCatalyst/jshint-simple-log.git"
+  },
   "author": "Mike Wojnarowski (http://catalystresources.com)",
   "license": "ISC",
   "dependencies": {
