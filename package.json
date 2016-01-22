@@ -1,0 +1,21 @@
+{
+  "name": "jshint-simple-log",
+  "version": "0.0.1",
+  "description": "Output your JSHint to a log file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSHint",
+    "Reporter",
+    "Output",
+    "Log",
+    "File"
+  ],
+  "author": "Mike Wojnarowski (http://catalystresources.com)",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.9.1"
+  }
+}
